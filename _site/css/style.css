@@ -1,5 +1,5 @@
 #post-container {
-    margin-bottom: 50px;
+    /*margin-bottom: 50px;*/
 }
 
 .post-text ul {
@@ -83,7 +83,7 @@ Main components
     left: 18px;
     height: 100%;
     width: 4px;
-    background: #d7e4ed;
+    background: #b7bcb3;
 }
 @media only screen and (min-width: 1170px) {
     #cd-timeline {
@@ -235,7 +235,7 @@ Main components
     background: white;
     border-radius: 0.25em;
     padding: 1em;
-    box-shadow: 0 3px 0 #d7e4ed;
+    box-shadow: 0 3px 0 #b7bcb3;
 }
 .cd-timeline-content:after {
     content: "";
@@ -471,8 +471,8 @@ Main components
 }
 
 .timeline {
-    background-color: #E9F0F5;
-    color: #7F8C97;
+    background-color: #f3f1ec;
+    color: #8d978f;
 }
 
 .timeline-h2 {
